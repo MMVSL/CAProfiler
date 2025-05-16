@@ -1,0 +1,11 @@
+Name,SMILES
+Mol_1,COc1cc2ccc(=O)oc2c(OC)c1OC
+Mol_2,NS(=O)(=O)c1ccc(NC(=O)CN2CCN(c3ccccn3)CC2)cc1
+Mol_3,Cc1ccccc1NC(=O)NCCS(=O)(=O)Nc1ccc(S(N)(=O)=O)cc1
+Mol_4,COC(=O)c1ccc(NCC(=O)NCc2ccc(S(N)(=O)=O)cc2)cc1
+Mol_5,COc1ccc(N2CCN(CCC(=O)NCc3ccc(S(N)(=O)=O)cc3)CC2)cc1
+Mol_6,NS(=O)(=O)c1ccc(C(=O)N2CCN(Cc3ccccc3)CC2)cc1
+Mol_7,O=c1ccc2ccc(OCc3ccccc3)cc2o1
+Mol_8,CC1(C)CC(=O)C2=C(C1)N(c1ccc(C(=O)Nc3ccc(S(N)(=O)=O)cc3)cc1)C1=C(C(=O)CC(C)(C)C1)C2c1ccc(Br)cc1
+Mol_9,Cc1ccc(C(=O)Nc2ccc3c(c2)S(=O)(=O)NC3=O)cc1
+Mol_10,NS(=O)(=O)c1ccc(NC(=O)CN2CCN(c3ccc(C(F)(F)F)cc3)CC2)cc1
