@@ -35,3 +35,5 @@ python ca_profiler.py -ci 1 -in input.csv -out output.csv
 ## Dependencies
 
 All necessary dependencies are included in `env.yml`.
+
+# Soon available on MolBook
