@@ -6,6 +6,7 @@ CA Profiler is a ML tool that allows the prediction of the potential activity of
 
 ## Citation
 If you use CA Profiler please cite:
+
 Piazza, L.; Di Stefano, M.; Poles, C.; Bononi, G.; Poli, G.; Renzi, G.; Galati, S.; Giordano, A.; Macchia, M.; Carta, F.; et al. A Machine Learning Platform for Isoform-Specific Identification and Profiling of Human Carbonic Anhydrase Inhibitors. Pharmaceuticals 2025, 18, 1007. https://doi.org/10.3390/ph18071007 
 
 
